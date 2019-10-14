@@ -1,0 +1,17 @@
+/* TEAM */
+Your title: Nicolò Saporito, Sappoh Sama Workshop.
+Site: howtohackitalia@gmail.com, https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw
+Twitter: no.
+Location: Bologna, Italy.
+[...]
+ 
+/* THANKS */
+Name: Ross, Dharma, Barbara, Angelo, Frenk, Alma, Alba, Feel e tutti gli altri.
+[...]
+ 
+/* SITE */
+Last update: 2017/06/17
+Standards: HTML5, CSS3, JAVA.
+Components: Modernizr, Plug-in's.
+Software: Notepad++, Photoshop CS6 Extended.
+

@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+Allow: /
+Allow: /guestbook
+Allow: /contatti
+Allow: /index
+Allow: /imieiconsulti
+Allow: /lacartomanzia
+
+Sitemap: http://www.barbaracartomante.com/sitemap.xml
